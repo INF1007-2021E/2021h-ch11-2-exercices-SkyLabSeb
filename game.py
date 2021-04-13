@@ -12,8 +12,8 @@ from character import *
 from magician import *
 
 
-def deal_damage(attacker, defender):
+def deal_damage(attacker: Character, defender: Character):
 	pass
 
-def run_battle(c1, c2):
+def run_battle(c1: Character, c2: Character):
 	pass
